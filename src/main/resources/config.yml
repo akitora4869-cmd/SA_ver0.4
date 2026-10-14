@@ -1,0 +1,6 @@
+# Optional signed Minecraft skin properties for Vargas.
+# Leave empty to use the default player skin.
+vargas:
+  skin:
+    texture: ""
+    signature: ""
